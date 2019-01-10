@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bloodchen/LearnGit/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You are looking at bloodchen's learn git site. The purpose of this site is to learn all git related knowledge.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
