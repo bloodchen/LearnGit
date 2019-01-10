@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You are looking at bloodchen's learn git site. The purpose of this site is to learn all git related knowledge.
+You are looking at bloodchen's learn git site. The purpose of this site is to learn all git related knowledge. Good.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
